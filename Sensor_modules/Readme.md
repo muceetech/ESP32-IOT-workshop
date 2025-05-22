@@ -26,21 +26,22 @@
 26	KY027_Magic_Light_Cup_sensor  
 27	KY028_NTC_thermistor_digital_sensor  
 28	KY029_Dual_LED  
-29	KY031_Knock_Sensor
-30	KY032_IR_Obstacle_sensor
-31	KY033_Line_Tracking_Sensor
-32	KY034_Flashing_Color_LED
-33	KY035_Analog_Hall_Magnetic_Sensor
-34	KY036_Metal_Touch_Sensor
-35	KY037_Sound_Sensor
-36	KY038_Mic_Sound_Sensor
-37	KY039_Heartbeat_Sensor
-38	KY040_Rotary_Encoder
-39	KY050_Ultrasonic_Distance_Sensor
-40	KY051_voltage_Level_Shifter
-41	KY052_Pressure_Sensor_BMP280
-42	KY053_ADS1115_ADC.py
-43	KY054_Phototransistor.py
+29	KY031_Knock_Sensor  
+30	KY032_IR_Obstacle_sensor  
+31	KY033_Line_Tracking_Sensor  
+32	KY034_Flashing_Color_LED  
+33	KY035_Analog_Hall_Magnetic_Sensor  
+34	KY036_Metal_Touch_Sensor  
+35	KY037_Sound_Sensor  
+36	KY038_Mic_Sound_Sensor  
+37	KY039_Heartbeat_Sensor  
+38	KY040_Rotary_Encoder  
+39	KY050_Ultrasonic_Distance_Sensor  
+40	KY051_voltage_Level_Shifter  
+41	KY052_Pressure_Sensor_BMP280  
+42	KY053_ADS1115_ADC    
+43	KY054_Phototransistr  
+
 
 
 
